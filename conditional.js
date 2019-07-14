@@ -8,6 +8,7 @@ if (1 != 0) {
 // 2. if else
 if (1 != 1) {
   console.log('[IF:ELSE] 1 tidak sama dengan 1');
+  console.log('TAMBAH KOMENKU');
 } else {
   console.log('[IF:ELSE] 1 sama dengan 1');
 }
