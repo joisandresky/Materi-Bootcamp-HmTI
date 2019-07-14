@@ -23,6 +23,7 @@ do {
 } while (x < 1);
 
 console.log('ini tambahan lagi di looping.js');
+console.log('tambah lagi');
 
 // 1. Buat Masing2 2 Variable untuk tipe data Boolean, Array, Object dan Array Of Object
 // 2. Buat Code Looping dengan menggunakan Array of Object
