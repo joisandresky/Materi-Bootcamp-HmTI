@@ -49,6 +49,8 @@ if (1 > 0) {
   console.log('yg 2 > 1 bisa jadi salah bro');
 }
 
+console.log('ini tambahan!');
+
 // elif, elsif, ElseIf
 
 // console.log('Apakah Sama ? ', 1 === '1');
