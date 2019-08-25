@@ -59,3 +59,16 @@ console.log('ini tambahan!');
 
 // nodejs -> nodejs.org 10.16
 // git -> git-scm.com
+
+// switch case
+var peserta = "yayang";
+switch (peserta) {
+  case "yayang":
+    console.log('Peserta nya si yayang!');
+    break;
+  case "ibnu":
+    console.log('Peserta nya si Ibnu');
+    break;
+  default:
+    console.log('Oh Ternyata Burhan!');
+}
